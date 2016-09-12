@@ -1,0 +1,52 @@
+baseurl = "http://jprof.by/"
+languageCode = "ru-RU"
+title = "Java Professionals Community"
+theme = "blackburn"
+author = "Богдан Семёнов"
+paginate = 10
+
+[indexes]
+  tags = "tags"
+
+[params]
+  subtitle = "Независимое сообщество минских Java-программистов"
+  brand = "JProf.by"
+  dateFormat = "02 Jan 2006"
+
+[menu]
+  [[menu.main]]
+    name = "Домой"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "О нас"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Записи"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Темы"
+    pre = "<i class='fa fa-tag fa-fw'></i>"
+    weight = 3
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "Контакты"
+    pre = "<i class='fa fa-phone-square fa-fw'></i>"
+    weight = 5
+    identifier = "contact"
+    url = "/contact/"
+
+[social]
+  github = "JavaBy"
+  gitter = "JavaBy"
+  facebook = "groups/535918699874448"
+  youtube = "UCDjCCgjlyR7uzhH7ZyTGn4Q"
