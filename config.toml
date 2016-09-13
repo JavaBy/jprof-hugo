@@ -6,7 +6,7 @@ author = "Богдан Семёнов"
 paginate = 10
 
 [indexes]
-  tags = "tags"
+  tag = "tags"
 
 [params]
   subtitle = "Независимое сообщество минских Java-программистов"
@@ -34,14 +34,14 @@ paginate = 10
     url = "/post/"
   [[menu.main]]
     name = "Темы"
-    pre = "<i class='fa fa-tag fa-fw'></i>"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
     weight = 3
-    identifier = "tags"
+    identifier = "tag"
     url = "/tags/"
   [[menu.main]]
     name = "Контакты"
     pre = "<i class='fa fa-phone-square fa-fw'></i>"
-    weight = 5
+    weight = 4
     identifier = "contact"
     url = "/contact/"
 
