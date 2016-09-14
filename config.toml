@@ -1,6 +1,6 @@
 baseurl = "http://jprof.by/"
 languageCode = "ru-RU"
-title = "Java Professionals Community"
+title = "Java Professionals By"
 theme = "blackburn"
 author = "Богдан Семёнов"
 paginate = 10
