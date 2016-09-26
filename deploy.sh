@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Exit with nonzero exit code if anything fails
+set -e
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo -e "\033[0;32mGo To Public folder...\033[0m"
