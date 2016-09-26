@@ -4,7 +4,7 @@ before_install:
   - wget https://github.com/spf13/hugo/releases/download/v0.16/hugo_0.16-1_amd64.deb
   - sudo dpkg -i hugo_0.16-1_amd64.deb
 before_script:
-  - openssl aes-256-cbc -K $encrypted_1cac0b547303_key -iv $encrypted_1cac0b547303_iv -in travis_rsa.enc -out travis_rsa -d
+  - openssl aes-256-cbc -K $encrypted_3bcdf52d906f_key -iv $encrypted_3bcdf52d906f_iv -in travis_rsa.enc -out travis_rsa -d
   - chmod 600 travis_rsa
   - eval `ssh-agent -s`
   - ssh-add travis_rsa
