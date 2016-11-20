@@ -8,6 +8,6 @@ sidemenu = "true"
 
 <ul class="fa-ul">
   <li>
-    <a href="https://www.facebook.com/groups/535918699874448/" target="_blank"><i class="fa fa-facebook-square fa-lg"></i>Java Professionals BY</a>
+    <a href="https://www.facebook.com/javaprofessionalsby/" target="_blank"><i class="fa fa-facebook-square fa-lg"></i>Java Professionals BY</a>
   </li>
 </ul>
