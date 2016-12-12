@@ -3,6 +3,12 @@
 # Exit with nonzero exit code if anything fails
 set -e
 
+# check current branch
+if [ 'master' != $TRAVIS_BRANCH ]; then
+    echo "Deploy only on master branch. Current branch: '$branch'.";
+    exit 0;
+fi
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 echo -e "\033[0;32mGo To Public folder...\033[0m"
