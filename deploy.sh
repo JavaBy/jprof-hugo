@@ -31,7 +31,7 @@ echo -e "\033[0;32mAdd changes to index...\033[0m"
 git add .
 
 echo -e "\033[0;32mCommiting changes...\033[0m"
-git commit -m "rebuilding site `date`"
+git diff-index --quiet HEAD || git commit -m "rebuilding site `date`"
 
 echo -e "\033[0;32mPush source and build repos...\033[0m"
 git push origin master
