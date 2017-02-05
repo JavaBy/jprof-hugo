@@ -1,7 +1,6 @@
 git:
   submodules: false
 before_install:
-  - ./.git-lfs-install.sh
   - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
   - sudo dpkg -i hugo_0.17-64bit.deb
 before_script:
