@@ -21,6 +21,7 @@ aliases = ["/post/170204-001"]
  * «Enterprise Java Puzzlers», Павел Грушецкий и Руслан Власевич 
 
      [Запись доклада](https://www.youtube.com/watch?v=GFfhhVliJBM)
+     [Слайды](http://www.slideshare.net/PavelGrushetzky/enterprise-java-puzzlers)
 
 **Фотографии:**
 
