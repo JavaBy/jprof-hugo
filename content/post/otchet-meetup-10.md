@@ -6,11 +6,17 @@ tags = [
 	"Фотоотчеты",
 	"Запись докладов"
 ]
+aliases = ["/post/160826-002", "/post/160826-001"]
 +++
 
 Фотографии прошедшего митапа и запись доклада.
 
 <!--more-->
+
+Ребята, а вот форма-отзыв про прошедший митап, заполняйте! 
+Вам не сложно – нам приятно.
+
+[http://bit.ly/jprof10](http://bit.ly/jprof10)
 
 [Запись доклада __Database transaction isolation and locking in Java - Константин Слисенко__](https://www.youtube.com/watch?v=VcyFHGXUl4E) 
 

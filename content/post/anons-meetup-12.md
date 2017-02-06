@@ -5,6 +5,7 @@ title = "Java Professionals BY Meetup #12 ∆ 21/12/2016 19:00@SPACE"
 tags = [
     "Анонсы", "meetup"
 ]
+aliases = ["/post/161213-001"]
 
 [event]
 subject = "Java Professionals BY Meetup #12"
