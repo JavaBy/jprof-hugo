@@ -2,7 +2,9 @@
 date = "2017-01-20T12:00:00+03:00"
 draft = false
 title = "Java Professionals Meetup #13 ∆ 02/02/2017 19:00@SPACE"
-tags = ["Анонсы", "meetup"]
+tags = [
+    "Анонсы", "meetup"
+]
 aliases = ["/post/170202-001"]
 
 [event]
