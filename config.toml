@@ -9,7 +9,7 @@ paginate = 10
   tag = "tags"
 
 [params]
-  subtitle = "Независимое сообщество минских Java-программистов / Minsk Java User Group"
+  subtitle = "Belarus Java User Group"
   brand = "jprof.by"
   googleAnalytics = "UA-86356104-1"
   dateFormat = "02 Jan 2006"
