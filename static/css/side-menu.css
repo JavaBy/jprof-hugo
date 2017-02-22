@@ -1,5 +1,6 @@
 body {
     color: #777;
+    font-family: "PT Sans", sans-serif;
 }
 
 .pure-img-responsive {
@@ -49,12 +50,15 @@ The content `<div>` is where all your content goes.
     text-align: center;
     padding: 2.5em 2em 0;
     border-bottom: 1px solid #eee;
+    font-family: "PT Sans", sans-serif
 }
 
 .header h1 {
     margin: 0.2em 0;
     font-size: 3em;
-    font-weight: 300;
+    font-weight: 700;
+    font-family: "Montserrat", "PT Sans", sans-serif;
+    text-transform: uppercase;
 }
 
 .header h2 {
@@ -123,6 +127,10 @@ Add that light border to separate items into groups.
     border-top: 1px solid #333;
 }
 
+#menu .pure-menu-item {
+    font-size: 1.1em;
+}
+
 /*
 Change color of the anchor links on hover/focus.
 */
@@ -130,14 +138,6 @@ Change color of the anchor links on hover/focus.
 #menu .pure-menu li a:focus {
     color: #fff;
     background: #272b35;
-}
-
-/*
-This styles the selected menu item `<li>`.
-*/
-#menu .pure-menu-selected,
-#menu .pure-menu-heading {
-    background: #1f8dd6;
 }
 
 /*
@@ -264,4 +264,17 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
 .menu__header_title img {
     height: 100px;
+}
+
+.menu__social {
+    padding: 1em;
+    text-align: center
+}
+
+.menu__social_link {
+    font-size: 1.5em;
+    padding: 0 !important;
+}
+.menu__social_link:hover {
+    background: #2b303b !important;
 }
