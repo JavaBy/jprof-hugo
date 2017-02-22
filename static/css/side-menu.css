@@ -127,6 +127,10 @@ Add that light border to separate items into groups.
     border-top: 1px solid #333;
 }
 
+#menu .pure-menu-item {
+    font-size: 1.1em;
+}
+
 /*
 Change color of the anchor links on hover/focus.
 */
