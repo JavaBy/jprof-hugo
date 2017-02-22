@@ -1,2 +1,8 @@
 .DS_Store
 public
+
+### IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
