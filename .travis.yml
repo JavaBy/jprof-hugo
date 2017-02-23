@@ -1,15 +1,14 @@
 git:
   submodules: false
 before_install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
-  - sudo dpkg -i hugo_0.17-64bit.deb
+  - wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1-64bit.deb
+  - sudo dpkg -i hugo_0.18.1-64bit.deb
 before_script:
   - openssl aes-256-cbc -K $encrypted_3bcdf52d906f_key -iv $encrypted_3bcdf52d906f_iv -in travis_rsa.enc -out travis_rsa -d
   - chmod 600 travis_rsa
   - eval `ssh-agent -s`
   - ssh-add travis_rsa
-  - git submodule update --init --recursive
-  - git config --global user.email "bahdan.siamionau@gmail.com"
+  - git config --global user.email "jug@jprof.by"
   - git config --global user.name "CI job"
 script:
   - bash ./deploy.sh
