@@ -8,6 +8,7 @@ before_script:
   - chmod 600 travis_rsa
   - eval `ssh-agent -s`
   - ssh-add travis_rsa
+  - git submodule update --init --recursive
   - git config --global user.email "jug@jprof.by"
   - git config --global user.name "CI job"
 script:
