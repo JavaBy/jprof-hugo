@@ -1,5 +1,5 @@
 +++
-date = "2017-03-17T12:00:00+03:00"
+date = "2017-03-15T12:00:00+03:00"
 draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #14"
 tags = [
@@ -44,6 +44,33 @@ tags = [
 {{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_9.jpg" %}}
 {{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_10.jpg" %}}
 {{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_11.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_12.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_13.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_14.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_15.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_16.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_17.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_18.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_19.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_20.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_21.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_22.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_23.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_24.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_25.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_26.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_27.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_28.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_29.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_30.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_31.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_32.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_33.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_34.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_35.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_36.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_37.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/meetup14/meetup14_38.jpg" %}}
 
 </div>
 
