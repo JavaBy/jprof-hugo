@@ -1,5 +1,5 @@
 +++
-date = "2017-03-017T12:00:00+03:00"
+date = "2017-03-17T12:00:00+03:00"
 draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #14"
 tags = [
@@ -18,10 +18,14 @@ tags = [
 **Доклад:**
 
  * «OSGI, JCR и event loop», Антоний Бертель
+
 	[Запись доклада](https://www.youtube.com/watch?v=769Vfrll6Sk)
+    
     [Слайды](https://docs.google.com/presentation/d/11wnFXumzuA5f8P5b7nW-FHe7fmUQ8Ot5nJ1hlQJsguM/edit?usp=sharing)
  * «Миграция данных миллионов активных пользователей с MySQL на Cassandra», Андрей Панасюк
+	
 	[Запись доклада](https://www.youtube.com/watch?v=ymXqi5KCEd4)
+    
     [Слайды](https://www.slideshare.net/AndreyPanasyuk2/migration-from-mysql-to-cassandra-for-millions-of-active-users)
 
 **Фотографии:**
