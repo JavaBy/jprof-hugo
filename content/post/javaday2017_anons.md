@@ -20,7 +20,7 @@ Kotlin, и даже Go!
 Открывать конференцию будет [Yegor Bugayenko](http://yegor256.com) про ООП в юнит тестах. А это значит градус конференции 
 будет выским самого начала.
 
-{{% fluid_img class="pure-u-1-2" src="/img/post/javaday2017.png" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/post/javadayby.png" %}}
 
 А кто ещё будет, читайте ниже ↓↓↓
 
