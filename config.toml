@@ -1,6 +1,6 @@
 baseurl = "https://jprof.by/"
 languageCode = "ru-RU"
-title = "Java Professionals BY - JUG from Minsk, Belarus"
+title = "Java Professionals BY"
 theme = "blackburn"
 author = "jprof.by team"
 paginate = 10
