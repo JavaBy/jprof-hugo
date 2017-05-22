@@ -1,12 +1,12 @@
-baseurl = "http://jprof.by/"
+baseurl = "https://jprof.by/"
 languageCode = "ru-RU"
-title = "Java Professionals BY"
+title = "Java Professionals BY - JUG from Minsk, Belarus"
 theme = "blackburn"
-author = "Богдан Семёнов"
+author = "jprof.by team"
 paginate = 10
 
 [indexes]
-  tag = "tags"
+  tag = "java jug minsk belarus user group jvm"
 
 [params]
   subtitle = "Belarus Java User Group"
