@@ -37,7 +37,7 @@ end = "20170601T210000"
 
 ### Константин Слисенко
 
-{{% fluid_img class="pure-u-1-1" src="/img/speakers/Konstantin_Slisenko_01.jpg" %}}
+{{% fluid_img class="pure-u-1-1 img-round" src="/img/speakers/Konstantin_Slisenko_01.jpg" %}}
 
 **Lead Software Engineer, EPAM Systems**
 
@@ -53,7 +53,7 @@ _Backend Java разработчик c 7+ годами опыта.
 
 ### Андрей Панасюк
 
-{{% fluid_img class="pure-u-1-1" src="/img/speakers/Andrey_Panasyuk_01.jpg" %}}
+{{% fluid_img class="pure-u-1-1 img-round" src="/img/speakers/Andrey_Panasyuk_01.jpg" %}}
 
 **Senior Software Engineer, Fitbit**
 
