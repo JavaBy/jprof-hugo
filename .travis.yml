@@ -4,7 +4,6 @@ before_install:
   - sudo dpkg -i hugo_0.21_Linux-64bit.deb
 script:
   - hugo -t blackburn
-  - echo 'jprof.by' > public/CNAME
 deploy:
   on:
     branch: master
