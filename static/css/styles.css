@@ -60,7 +60,7 @@ The content `<div>` is where all your content goes.
 }
 
 
-.img-round {
+.img-round img {
     border-radius: 150px;
     width: 300px;
 }
