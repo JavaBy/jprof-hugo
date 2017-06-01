@@ -10,6 +10,6 @@ deploy:
   github_token: $GITHUB_TOKEN
   provider: pages
   skip_cleanup: true
-  #local_dir: public
+  local_dir: public
   repo: JavaBy/JavaBy.github.io
   target_branch: master
