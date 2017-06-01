@@ -11,5 +11,5 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
-  repo: git@github.com:JavaBy/JavaBy.github.io
+  repo: JavaBy/JavaBy.github.io
   target_branch: master
