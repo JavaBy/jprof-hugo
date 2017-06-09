@@ -28,11 +28,27 @@ tags = [
 
 <div class="post_photos">
 
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_222425.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_222458.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_225214.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_225221.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_225640.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/IMG_20170608_225841.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_01.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_02.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_03.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_04.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_05.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_06.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_07.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_08.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_09.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_10.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_11.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_12.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_13.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_14.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_15.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_16.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_17.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_18.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_19.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_20.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_21.jpg" %}}
+{{% fluid_img class="pure-u-1-3" src="/img/shashlik_and_wine_1/shashlik_and_wine_1_22.jpg" %}}
 
 </div>
