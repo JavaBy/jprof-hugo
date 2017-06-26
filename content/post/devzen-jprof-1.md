@@ -8,14 +8,14 @@ tags = [
 +++
 
 Мы сделали встречу со [Светланой Божко](https://twitter.com/SBozhko) из [Devzen](devzen.ru).
-И митап прошёл отлично! 
-По нашему мнению, беседа удалась и формат пришёлся пришедшим по душе.
-Мы хотим узнать ваше мнение о встрече, заполните, пожалуйста, [фидбек-форму](http://bit.ly/devzen_jprof_resp_1).
+Расспросили Свету на предмет работы в Лондонских стартапах, задав каверзные вопросы и узнав подробности о жизни в сердце Туманного Альбиона.
 
-**Аудиозапись** 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330150534&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 Спасибо всем, кто пришел, мы были рады вас видеть!
 А для тех, кто все же не попал в SPACE — под катом немного фотографий.
+
+Оставьте Ваше мнение о встрече, заполните, пожалуйста, [фидбек-форму](http://bit.ly/devzen_jprof_resp_1).
 
 <!--more-->
 
@@ -24,7 +24,7 @@ tags = [
 ## Фотографии:
 
 <div class="post_photos">
-                                                                                    
+
 {{% fluid_img class="pure-u-1-3" src="/img/devzen_jprof/devzen_jprof_1.jpg" %}}     
 {{% fluid_img class="pure-u-1-3" src="/img/devzen_jprof/devzen_jprof_2.jpg" %}}     
 {{% fluid_img class="pure-u-1-3" src="/img/devzen_jprof/devzen_jprof_3.jpg" %}}     
