@@ -1,6 +1,6 @@
 +++
 date = "2017-10-19T19:00:00+03:00"
-draft = true
+draft = false
 title = "Java Professionals Meetup #16 / Java 9 Special Event ∆ 19/10/2017 19:00@SPACE"
 tags = [
     "Анонсы", "meetup"
@@ -35,6 +35,7 @@ end = "20171019T210000"
 
 Митап пройдет при поддержке компаний [Apalon](http://apalon.com) и [Intetics](http://intetics.com/)!
 
-{{% fluid_img class="pure-u-1-2" src="/img/apalon.png" %}}
-
-{{% fluid_img class="pure-u-1-2" src="/img/intetics.png" %}}
+{{< fluid_imgs
+  "pure-u-1-2|/img/apalon.png|Dog"
+  "pure-u-1-2|/img/intetics.png|Dog"
+>}}
