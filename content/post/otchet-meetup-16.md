@@ -14,25 +14,25 @@ tags = [
 Спасибо всем, кто пришёл, вы поставили рекорд по количеству участников!
 Пожалуйста, заполните [фидбек-форму](http://bit.ly/jprof_resp_16) чтобы мы могли делать наши встречи ещё лучше и интереснее!
 
+И самое главное, мы теперь можем общаться в [Telegram чате](https://t.me/jprof_by). Добавляйтесь, чтобы не пропустить ничего важного, будем обсуждать и говорить о самом главном.
+
 А для тех, кто все же не добрался до SPACE - под катом записи докладов и фотографии.
-Ждём вас в следующий раз!
 
 <!--more-->
 
 Если вы и сами хотите присоединиться к развитию сообщества - [свяжитесь с нами](http://jprof.by/contact).
-Мы недавно завели свой [Telegram чат](https://t.me/jprof_by), добавляйтесь, чтобы не пропустить ничего важного.
 
 ## Доклады:
 
  - Java 9: The Language, Богдан Семёнов
-  - TODO: [Запись доклада](https://www.youtube.com/watch?v=CMFAkp7z8uU)
-  - TODO: [Слайды](https://www.slideshare.net/kslisenko/networking-in-java-with-nio-and-netty-76583794)
+  - _Будет немного позже_
+  - [Слайды](https://slides.com/bahdansiamionau/java-9-lang)
  - Java 9: The JDK, Влад Гаевский
-  - TODO: [Запись доклада](https://www.youtube.com/watch?v=CMFAkp7z8uU)
-  - TODO: [Слайды](https://www.slideshare.net/kslisenko/networking-in-java-with-nio-and-netty-76583794)
+  - [Запись доклада](https://www.youtube.com/watch?v=SqFDZPIRAsc)
+  - [Слайды](https://slides.com/kelstar/java9-jdk)
  - Java 9: The Platform, Сергей Крюков
-  - TODO: [Запись доклада](https://www.youtube.com/watch?v=CMFAkp7z8uU)
-  - [Слайды](https://docs.google.com/presentation/d/1pEpKiPnVCtZTU1WlFjHoNkpSZqMIJ_w7PvblZjF8ksk/edit?usp=sharing)
+  - [Запись доклада](https://www.youtube.com/watch?v=t2C3QXDLx6o)
+  - [Слайды](https://www.slideshare.net/SiarheiKrukau/java-9-platform-81010788)
   - [Код](https://github.com/JavaBy/meetup_16/tree/master/jigsaw)
 
 ## Фотографии:
