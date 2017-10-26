@@ -28,10 +28,10 @@ tags = [
   - _Будет немного позже_
   - [Слайды](https://slides.com/bahdansiamionau/java-9-lang)
  - Java 9: The JDK, Влад Гаевский
-  - [Запись доклада](https://www.youtube.com/watch?v=SqFDZPIRAsc)
+  - [Запись доклада](https://www.youtube.com/watch?v=SqFDZPIRAsc&list=PLDQPS8WphzVwtmMrvQWddkmPEaXhuSzGG&index=2)
   - [Слайды](https://slides.com/kelstar/java9-jdk)
  - Java 9: The Platform, Сергей Крюков
-  - [Запись доклада](https://www.youtube.com/watch?v=t2C3QXDLx6o)
+  - [Запись доклада](https://www.youtube.com/watch?v=t2C3QXDLx6o&index=1&list=PLDQPS8WphzVwtmMrvQWddkmPEaXhuSzGG)
   - [Слайды](https://www.slideshare.net/SiarheiKrukau/java-9-platform-81010788)
   - [Код](https://github.com/JavaBy/meetup_16/tree/master/jigsaw)
 
