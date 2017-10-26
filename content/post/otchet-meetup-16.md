@@ -25,7 +25,7 @@ tags = [
 ## Доклады:
 
  - Java 9: The Language, Богдан Семёнов
-  - _Будет немного позже_
+  - _Запись доклада будет позже_
   - [Слайды](https://slides.com/bahdansiamionau/java-9-lang)
  - Java 9: The JDK, Влад Гаевский
   - [Запись доклада](https://www.youtube.com/watch?v=SqFDZPIRAsc&list=PLDQPS8WphzVwtmMrvQWddkmPEaXhuSzGG&index=2)
