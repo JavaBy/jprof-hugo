@@ -1,5 +1,5 @@
 # resize with imagemagic
-for file in *; do convert $file -resize 1024x "${file}_resized.jpg"; done
+for file in *; do convert $file -resize 1024x -quality 80 "${file}"; done
 
 # rename according pattern
 n=0; for i in *.jpg; do let n++; mv "$i" "meetup13_${n}.jpg"; done
