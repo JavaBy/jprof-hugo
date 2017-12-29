@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Друзья, мы провели 2017 год интересным и тёплым митапом. Спасибо вам, что пришли! Отдельное спасибо спикерам и 
+Друзья, мы закончили 2017 год интересным и тёплым митапом. Спасибо вам, что пришли! Отдельное спасибо спикерам и 
 тем кто был активен. Было приятно видеть новые лица, ждем вас в следущем году! На 2018 год у нас много планов, 
 запланирована большая конференция [Voxxed Days Minsk](https://voxxeddays.com/minsk/?utm_source=jprof), уже готовим 
 следующий митап и обязательно приведём и привезем интересных спикеров.
@@ -35,10 +35,10 @@ tags = [
 
 <div class="post_photos">
 
-{{% fluid_img class="pure-u-3-3" src="/img/meetup17/meetup17_01.jpg" %}}
-{{% fluid_img class="pure-u-3-3" src="/img/meetup17/meetup17_02.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/meetup17/meetup17_03.jpg" %}}
-{{% fluid_img class="pure-u-1-3" src="/img/meetup17/meetup17_04.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup17/meetup17_01.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup17/meetup17_02.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup17/meetup17_03.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup17/meetup17_04.jpg" %}}
 
 </div>
 
