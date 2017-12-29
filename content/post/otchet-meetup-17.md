@@ -1,6 +1,6 @@
 +++
 date = "2017-12-27T13:00:00+03:00"
-draft = true
+draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #17"
 tags = [
     "Запись докладов",
