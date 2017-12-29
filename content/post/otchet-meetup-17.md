@@ -11,7 +11,7 @@ tags = [
 Друзья, мы провели 2017 год интересным и тёплым митапом. Спасибо вам, что пришли! Отдельное спасибо спикерам и 
 тем кто был активен. Было приятно видеть новые лица, ждем вас в следущем году! На 2018 год у нас много планов, 
 запланирована большая конференция [Voxxed Days Minsk](https://voxxeddays.com/minsk/?utm_source=jprof), уже готовим 
-следующий митап и обязательно приведем и привезем интересных спикеров.
+следующий митап и обязательно приведём и привезем интересных спикеров.
 Пожалуйста, заполните [фидбек-форму](http://bit.ly/jprof_resp_17) чтобы в новом году мы могли делать наши встречи ещё лучше!
 
 И самое главное, от лица центрального комитета сообщества JProf поздравляем вас С Новым Годом!
@@ -25,10 +25,10 @@ tags = [
 ## Доклады:
 
  - JHipster – волшебный пендель вашему проекту, Николай Ищенко 
-  - [Запись доклада]()
-  - [Слайды]()
+  - [Запись доклада](https://www.youtube.com/watch?v=LnWvwDTf_5I)
+  - [Слайды](https://www.slideshare.net/ssuserbeed2e/jhipster-85269097)
  - Latency tracing in distributed Java applications, Константин Слисенко
-  - [Запись доклада]()
+  - [Запись доклада](https://www.youtube.com/playlist?list=PLDQPS8WphzVw4BCx00gZTdExRyg_9ZTNA)
   - [Слайды](https://www.slideshare.net/kslisenko/latency-tracing-in-distributed-java-applications-81894135)
 
 ## Фотографии:
@@ -40,11 +40,12 @@ tags = [
 {{% fluid_img class="pure-u-1-3" src="/img/meetup17/meetup17_03.jpg" %}}
 {{% fluid_img class="pure-u-1-3" src="/img/meetup17/meetup17_04.jpg" %}}
 
-Остальные фото на нашей странице в facebook, ищите и отмечайте себя.
+</div>
+
+
+Остальные фото на нашей странице в [Facebook](https://www.facebook.com/pg/javaprofessionalsby/photos/?tab=album&album_id=1133782646725332), ищите и отмечайте себя.
 
 Так же, теперь мы можем общаться в [Telegram чате](https://t.me/jprof_by). Присоединяйтесь, обсудим новости, митапы и конференции!
-
-</div>
 
 ## Партнеры
 
