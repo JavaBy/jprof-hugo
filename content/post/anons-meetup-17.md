@@ -22,7 +22,7 @@ end = "20171226T210000"
 
 <!--more-->
 
-Подводя итоги уходящего года, хотелось бы вспомнить [выход Java 9](https://jprof.by/post/otchet-meetup-16), [Java Day 2017](https://jprof.by/javaday2017_anons), эксперименты с [новыми](https://jprof.by/post/devzen-jprof-1) [форматами](https://jprof.by/post/otchet_shashlik_and_wine_1/) встреч, а также запуск [канала в Telegram](https://t.me/jprof_by).
+Подводя итоги уходящего года, хотелось бы вспомнить [выход Java 9](https://jprof.by/post/otchet-meetup-16), [Java Day 2017](https://jprof.by/post/javaday2017_anons/), эксперименты с [новыми](https://jprof.by/post/devzen-jprof-1) [форматами](https://jprof.by/post/otchet_shashlik_and_wine_1/) встреч, а также запуск [канала в Telegram](https://t.me/jprof_by).
 Мы уже работаем над митапами и конференциями в будущем году и готовим для вас несколько приятных сюрпризов!
 
 ## Программа митапа
