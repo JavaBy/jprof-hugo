@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Мы сделали встречу со [Светланой Божко](https://twitter.com/SBozhko) из [Devzen](devzen.ru).
+Мы сделали встречу со [Светланой Божко](https://twitter.com/SBozhko) из [Devzen](http://devzen.ru).
 Расспросили Свету на предмет работы в Лондонских стартапах, задав каверзные вопросы и узнав подробности о жизни в сердце Туманного Альбиона.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330150534&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
