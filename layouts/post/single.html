@@ -2,10 +2,10 @@
 
 <div class="header">
   <h1>{{ .Title }}</h1>
-  <h2>{{ .Site.Params.subtitle }}</h2>
+  <h2>{{ .Description }}</h2>
 </div>
-
 <div class="content">
+
   <a href="https://voxxeddays.com/minsk/?utm_source=jprof" target="_blank">
     <img src="/img/voxxeddays18.jpg" alt="VoxxedDays Minsk 2018, May 26"
          style="display: block;
@@ -13,11 +13,14 @@
                 width: 400px;
                 padding: 5px 0 0 0;"/>
   </a>
-  {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
-    {{ .Render "summary"}}
-  {{ end }}
 
-  {{ partial "pagination.html" . }}
+  {{ partial "post_meta.html" . }}
+
+  {{ .Content }}
+
+  {{ partial "prev_next_post.html" . }}
+
+  {{ partial "disqus.html" . }}
 
 </div>
 

@@ -28,11 +28,37 @@ Kamil активный спикер, и выступал на таких кон�
 
 ## Программа митапа
 * _18:45_ – _19:00_ Знакомство и приветственный кофе;
-* _19:00_ – _19:40_ **Артем Синицын: "Docker for Java Developers"**;
+* _19:00_ – _19:40_ **Артём Синицын: "Docker for Java Developers"**;
 * Кофе-пауза
 * _19:50_ – _20:40_ **Kamil Szymański: "Reactive Web Services [EN]"**;
 * _20:40_ – _21:00_ Hетворкинг;
 
+## Докладчики
+
+### Артём Синицын "Docker for Java Developers"
+
+Берём докер как огромное и расширяющееся пространство. Рассекаем его плоскостью применимости непосредственно в девелопменте, 
+то есть игнорируем всякие опсовые, инфраструктурные и фундаментальные аспеты.
+Потом рассекаем плоскостью моего личного опыта и получаем прямую в пересечении плоскостей. Эта прямая и будет нитью повествования
+
+На докладе покроем следующие темы:
+
+* Управление пакетами (зависимостями), т.е. поднятие компонентов необходимых для девелопмента. 
+* Используя docker-compose добавляем к зависимостям непосредсвенно наше приложение и получаем полноценный исполняемый quick start guide.
+* Создание собственных контейнеров
+* Рассмотрим тестирование контейнеров. А также тонкости использования Docker именно с Java.
+
+### Kamil Szymański "Reactive Web Services"
+
+Ahh, reactive, probably the buzzword of 2017, newer and shinier than good ol' microservices, 
+all asynchronous, non-blocking and I've even heard some event-driven buzz around it.
+During this live-coding session we won't focus on the shiny nor on saving the world with dataflows using composable operators.
+Instead we'll focus on how the execution of this reactive approach differs from 
+'classic imperative approaches' and check how it impacts resource consumption.
+We'll also see backpressure in action, cover the topic of data serialization and talk about event loops.
+
+Kamil is a software developer, JVM & open-source enthusiast, develops D2C investment platform @ Pragmatic Coders
+ 
 ## Партнеры
 
 Митап пройдет при поддержке компаний [Apalon](http://apalon.com), [Intetics](http://intetics.com) и [ISsoft](http://www.issoft.by)!
