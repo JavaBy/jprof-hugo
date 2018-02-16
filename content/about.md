@@ -21,7 +21,7 @@ sidemenu = "true"
 
 ## Как попасть на наш митап?
 
-Следите за новостями на данном сайте или на [нашей странице в Facebook](https://www.facebook.com/javaprofessionalsby). Также мы публикуем анонсы на сайте [dev.by](https://events.dev.by/). Участие бесплатное.
+Следите за новостями на данном сайте или на [нашей странице в Facebook](https://www.facebook.com/javaprofessionalsby) и [VK](https://vk.com/javaprofessionalsby). Также мы публикуем анонсы на сайте [dev.by](https://events.dev.by/). Участие бесплатное.
 
 ## Кто наши докладчики?
 
@@ -37,8 +37,7 @@ sidemenu = "true"
 
 ## Партнёры
 
-Компании [Apalon](http://www.apalon.com/) и [Intetics](http://intetics.com/) поддерживают наше сообщество 
-и помогают проводить встречи.
+Компании [Apalon](http://www.apalon.com/), [Intetics](http://intetics.com/) и [ISsoft](http://www.issoft.by/) поддерживают наше сообщество и помогают проводить встречи.
 
 ### Intetics
 
@@ -50,9 +49,15 @@ sidemenu = "true"
 ### Apalon
 
 [Apalon](http://www.apalon.com/) ведущая компания разработчик мобильных приложений. Боллее 40 миллионов ежемесячно активных
-пользователей приложений в App Store, Google Play и Amazon Appstore. 
+пользователей приложений в App Store и Google Play. Apalon является подразделением компании [IAC Applications](https://www.iacapps.com/) которая так же ведет разработку сервисов и продуктов в Минске. 
 
 {{% fluid_img class="pure-u-1-2" src="/img/apalon.png" %}}
+
+### ISsoft
+
+ISsoft – интернациональная компания. Являясь частью Coherent Solutions, Inc., Принимает участие в разработке мощных и востребованных IT-решений для рынков США и Западной Европы. С 2004 года специалисты накопили огромный опыт работы и взаимодействия с клиентами на самом конкурентном рынке в мире. ISsoft – это более семисот специалистов мирового уровня в аутсорсинге разработки программного обеспечения. И это число постоянно растёт.
+
+{{% fluid_img class="pure-u-1-2" src="/img/issoft.jpg" %}}
 
 ## SPACE
 
