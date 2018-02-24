@@ -1,5 +1,5 @@
 +++
-date = "2017-02-23T13:00:00+03:00"
+date = "2018-02-23T13:00:00+03:00"
 draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #18"
 tags = [
@@ -8,8 +8,7 @@ tags = [
 ]
 +++
 
-Dzień dobry, państwu! В коллаборации с JUG Warsaw Получилось отлично разогреть зиму 18-ым митапом. Спасибо, что провели вечер с нами!
-
+Dzień dobry, państwu! В коллаборации с JUG Warsaw получилось отлично разогреть зиму 18-ым митапом. Спасибо, что провели вечер с нами!
 А тем временем, мы уже готовимся встретить весну с новыми спикерами и захватывающими докладами, не переключайтесь 
 и не [забывайте путь в Eventspace](https://memepedia.ru/ugandan-knuckles/)
 
@@ -35,6 +34,11 @@ Dzień dobry, państwu! В коллаборации с JUG Warsaw Получил
 {{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_03.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_04.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_05.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_06.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_07.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_08.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_09.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_10.jpg" %}}
 
 </div>
 
