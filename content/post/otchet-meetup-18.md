@@ -27,6 +27,8 @@ Dzień dobry, państwu! В коллаборации с JUG Warsaw получил
 
 ## Фотографии:
 
+Много классных и профессиональных фото в нашей [группе Facebook](https://www.facebook.com/javaprofessionalsby/posts/1179871695449760)
+
 <div class="post_photos">
 
 {{% fluid_img class="pure-u-1-2" src="/img/meetup18/meetup18_01.jpg" %}}
