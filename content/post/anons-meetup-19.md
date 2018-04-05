@@ -52,10 +52,9 @@ end = "20180413T210000"
 
 ## Партнеры
 
-Митап пройдет при поддержке компаний [Apalon](http://apalon.com), [Intetics](http://intetics.com) и [ISsoft](http://www.issoft.by)!
+Митап пройдет при поддержке компаний [Intetics](http://intetics.com) и [ISsoft](http://www.issoft.by)!
 
 {{< fluid_imgs
-  "pure-u-1-3|/img/apalon.png|Apalon"
   "pure-u-1-3|/img/intetics.png|Intetics"
   "pure-u-1-3|/img/issoft.jpg|ISsoft"
 >}}
