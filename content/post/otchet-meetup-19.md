@@ -30,15 +30,15 @@ tags = [
 
 <div class="post_photos">
 
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_01.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_02.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_03.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_04.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_05.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_06.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_07.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_08.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_09.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_1.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_2.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_3.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_4.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_5.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_6.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_7.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_8.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_9.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup19/meetup19_10.jpg" %}}
 
 </div>
