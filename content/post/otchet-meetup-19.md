@@ -47,7 +47,7 @@ tags = [
 
 ## Партнеры
 
-Митап прошёл при поддержке компаний [Apalon](http://apalon.com), [Intetics](http://intetics.com/) и [Twistellar](http://twistellar.com/)!
+Митап прошёл при поддержке компаний [ISsoft](http://www.issoft.by/), [Intetics](http://intetics.com/) и [Twistellar](http://twistellar.com/)!
 
 {{< fluid_imgs
   "pure-u-1-3|/img/apalon.png|Apalon"
