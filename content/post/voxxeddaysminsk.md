@@ -13,8 +13,6 @@ tags = [
 
 И мы обсуждаем конференцию в [Telegram чате](https://t.me/jprof_by). Присоединяйтесь! 
 
-## Фотографии:
-
 <div class="post_photos">
 
 {{% fluid_img class="pure-u-1-2" src="/img/voxxeddays/team.jpg" %}}
