@@ -6,13 +6,6 @@
 </div>
 
 <div class="content">
-  <a href="https://voxxeddays.com/minsk/?utm_source=jprof" target="_blank">
-    <img src="/img/voxxeddays18.jpg" alt="VoxxedDays Minsk 2018, May 26"
-         style="display: block;
-                margin: 12px auto 0 auto;
-                width: 400px;
-                padding: 5px 0 0 0;"/>
-  </a>
   {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
     {{ .Render "summary"}}
   {{ end }}
