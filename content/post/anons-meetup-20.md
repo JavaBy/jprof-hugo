@@ -10,9 +10,9 @@ tags = [
 subject = "Java Professionals Meetup #20"
 description = "Java Professionals Meetup #20"
 location = "Event Space, vulica Kastryčnickaja, Minsk, Belarus"
-begin = "20180610T190000"
+begin = "20180710T190000"
 beginTimezone = "Europe/Minsk"
-end = "20180610T210000"
+end = "20180710T210000"
 +++
 
 Ребята, лето в разгаре, а значит самое время собраться обсудить планы на отпуск, а тем кто уже съездил отдохнуть, рассказать
