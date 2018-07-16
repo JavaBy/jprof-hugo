@@ -50,7 +50,7 @@ tags = [
 Митап прошёл при поддержке компаний [ISsoft](http://www.issoft.by/), [Intetics](http://intetics.com/) и [Twistellar](http://twistellar.com/)!
 
 {{< fluid_imgs
-  "pure-u-1-3|/img/apalon.png|Apalon"
+  "pure-u-1-3|/img/issoft.jpg|ISsoft"
   "pure-u-1-3|/img/intetics.png|Itetics"
   "pure-u-1-3|/img/twistellar.jpg|Twistellar"
 >}}
