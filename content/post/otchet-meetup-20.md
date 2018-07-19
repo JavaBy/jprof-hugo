@@ -27,7 +27,7 @@ tags = [
 
 ## Фотографии:
 
-Много классных и профессиональных фото в нашей [группе Facebook](https://web.facebook.com/javaprofessionalsby/posts/1224640847639511)
+Много классных и профессиональных фото в нашей [группе Facebook](https://www.facebook.com/javaprofessionalsby/posts/1311370095633252)
 
 <div class="post_photos">
 
