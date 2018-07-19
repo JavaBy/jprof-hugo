@@ -55,9 +55,16 @@ sidemenu = "true"
 
 ### ISsoft
 
-ISsoft – интернациональная компания. Являясь частью Coherent Solutions, Inc., Принимает участие в разработке мощных и востребованных IT-решений для рынков США и Западной Европы. С 2004 года специалисты накопили огромный опыт работы и взаимодействия с клиентами на самом конкурентном рынке в мире. ISsoft – это более семисот специалистов мирового уровня в аутсорсинге разработки программного обеспечения. И это число постоянно растёт.
+[ISsoft](http://www.issoft.by/) – это место, где кроме рабочих задач, вы можете успешно заниматься R&D. В компании принято делиться своими знаниями, поэтому ISsoft на регулярной основе проводит митапы и конференции для сотрудников. Мы называем себя: «маленькая большая компания»
 
-{{% fluid_img class="pure-u-1-2" src="/img/issoft.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/issoft_blue.png" %}}
+
+### Twistellar
+
+Twistellar is the leading Salesforce solutions provider in Eastern Europe, official Salesforce Consulting Partner, resident of Hi-Tech Park, Belarus.
+We're a team of certified professionals, involved in the most responsible and complicated Salesforce projects in the world.
+
+{{% fluid_img class="pure-u-1-2" src="/img/twistellar.jpg" %}}
 
 ## SPACE
 
