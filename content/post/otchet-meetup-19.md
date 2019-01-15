@@ -21,6 +21,7 @@ tags = [
 
  - Машинное обучение методом Q-learning в примерах, Кирилл Саколин
   - [Запись доклада](https://youtu.be/R_1Irrp6hJM)
+  - [Код из доклада](https://github.com/coherentsolutionsinc/issoft-insights-2018-qlearning-in-examples)
  - Разумное железо своими руками (На Java и RaspberryPi), Владислав Заблоцкий
   - [Запись доклада](https://youtu.be/P3FgFkIWBQ8)
 
