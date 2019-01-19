@@ -1,5 +1,5 @@
 +++
-date = "2019-01-0618T12:00:00+03:00"
+date = "2019-01-18T12:00:00+03:00"
 draft = false
 title = "Java Professionals Meetup #22 ∆ 24/01/2019 19:00@SPACE"
 tags = [
