@@ -1,5 +1,5 @@
 +++
-date = "2018-12-29T13:00:00+03:00"
+date = "2019-01-29T13:00:00+03:00"
 draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #22"
 tags = [
