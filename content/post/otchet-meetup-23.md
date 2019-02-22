@@ -1,5 +1,5 @@
 +++
-date = "2019-01-29T13:00:00+03:00"
+date = "2019-02-22T13:00:00+03:00"
 draft = false
 title = "Отчет по прошедшему митапу Java Professionals BY #23"
 tags = [
@@ -25,7 +25,7 @@ tags = [
 
 ## Фотографии:
 
-Много классных и профессиональных фото в нашей [группе Facebook](https://web.facebook.com/pg/javaprofessionalsby/photos/?tab=album&album_id=1550620101708249)
+Много классных и профессиональных фото в нашей [группе Facebook](https://www.facebook.com/media/set/?set=a.1581990875237838&type=1&l=041e9b6bfc)
 
 <div class="post_photos">
 
