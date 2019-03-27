@@ -59,4 +59,7 @@ P.S. Кстати, когда будете в Риме — [поступайте
 
 Митап пройдет при поддержке компаний [Intetics](http://intetics.com), [ISsoft](http://www.issoft.by)
 
-{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[intetics,issoft].png" %}}
+{{< fluid_imgs
+  "pure-u-1-2|/img/intetics.png|Intetics"
+  "pure-u-1-2|/img/issoft.jpg|ISsoft"
+>}}
