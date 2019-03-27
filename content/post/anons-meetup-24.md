@@ -57,6 +57,6 @@ P.S. Кстати, когда будете в Риме — [поступайте
 
 ## Партнёры
 
-Митап пройдет при поддержке компаний [Intetics](http://intetics.com), [ISsoft](http://www.issoft.by) и [Apalon](https://www.apalon.com/)
+Митап пройдет при поддержке компаний [Intetics](http://intetics.com), [ISsoft](http://www.issoft.by)
 
-{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[intetics,issoft,apalon].png" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[intetics,issoft].png" %}}
