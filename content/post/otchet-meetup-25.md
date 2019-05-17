@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-Тут можно оценить доклады → [Feedback](https://forms.gle/ue4dVYz4ttDD9d1k7)! 
+Тут можно оценить доклады → [Feedback](https://drive.google.com/open?id=13uXzseWGNDJcq_DDERYO1xXTKogu3jlsd258sdnovGE)! 
 
 <!--more-->
 
