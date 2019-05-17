@@ -14,8 +14,8 @@ tags = [
 
 ## Записи докладов:
 
- - [Netty - Андрей Мизуров](...)
- - [Git - Артём Синицын](...)
+ - [Netty - Андрей Мизуров](https://www.youtube.com/watch?v=RwiFssLLW9E)
+ - [Git - Артём Синицын](https://www.youtube.com/watch?v=_MTY9vez9Ic)
 
 ## Фотографии:
 
