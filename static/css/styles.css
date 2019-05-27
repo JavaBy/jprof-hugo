@@ -73,19 +73,17 @@ The content `<div>` is where all your content goes.
 }
 
 div.jumbo {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
   max-width: 960px;
-  height: 560px;
   margin: 10px auto 50px;
   padding: 30px;
   font-size: 1.2em;
   font-weight: 600;
   font-family: "PT Sans", sans-serif;
-  background-image: url("/img/minsk_rdd_1.png");
-  background-size: 100% auto;
-  box-shadow: 0 0 10px 10px white inset;
 }
 
 div.jumbo a {
-    text-decoration: underline;
-    color: inherit;
+  text-decoration: underline;
+  color: inherit;
 }
