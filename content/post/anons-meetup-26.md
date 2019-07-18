@@ -56,6 +56,6 @@ end = "20190724T210000"
 
 ## Партнёры
 
-Митап пройдет при поддержке компаний [Intetics](http://intetics.com), [ISsoft](http://www.issoft.by) и [Playtika](https://www.playtika.com/)
+Митап пройдет при поддержке компаний [ISsoft](http://www.issoft.by) и [Playtika](https://www.playtika.com/)
 
-{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[intetics,issoft,playtika].png" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[issoft,playtika].png" %}}
