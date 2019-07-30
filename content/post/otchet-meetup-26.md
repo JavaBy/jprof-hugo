@@ -28,15 +28,15 @@ tags = [
 Полный фотоотчёт доступен в нашем [Facebook](https://www.facebook.com/pg/javaprofessionalsby)
 
 <div class="post_photos">
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_01.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_02.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_03.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_04.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_05.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_06.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_07.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_08.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_09.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_1.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_2.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_3.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_4.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_5.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_6.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_7.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_8.jpg" %}}
+{{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_9.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_10.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_11.jpg" %}}
 {{% fluid_img class="pure-u-1-2" src="/img/meetup26/meetup26_12.jpg" %}}
