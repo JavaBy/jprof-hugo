@@ -8,8 +8,8 @@ tags = [
 ]
 +++
 
-Благодарим всех пришедших на встречу!
-Пожалуйста, [оцените](https://forms.gle/4UtdmQFfaqfp8h7t8) доклады,
+Благодарим всех пришедших на встречу!   
+Пожалуйста, [оцените](https://forms.gle/4UtdmQFfaqfp8h7t8) доклады.
 
 Кстати, мы готовим для вас [кое-что интересное](https://jfuture.dev) этой осенью.
 [Помогите](https://madhead.typeform.com/to/sqfVrH?channel=jprof_by) нам сделать по-настоящему запоминающийся подарок!
@@ -18,10 +18,10 @@ tags = [
 
 ## Видеозаписи:
 
- - [Concurrency Tips — Евгений Шелестович](https://youtu.be/3NDiCnNa8hU).
- - [What does it take to be architect — Константин Слисенко](https://youtu.be/MhlvfPXZSr4).
+ * [Concurrency Tips — Евгений Шелестович](https://youtu.be/3NDiCnNa8hU) + [слайды](https://eshelestovich.github.io/concurrency-tips/)
+ * [What does it take to be architect — Константин Слисенко](https://youtu.be/MhlvfPXZSr4)
 
-Пересмотреть любой понравившийся доклад всегда можно на [нашем канале](https://www.youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q).
+Пересмотреть любой понравившийся доклад всегда можно на [нашем канале](https://www.youtube.com/c/JavaProfessionalsBY).
 
 ## Фотографии:
 
