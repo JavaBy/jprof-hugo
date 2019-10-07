@@ -17,7 +17,7 @@ tags = [
 
 ## Видеозаписи:
 
- * [SQL DDL: трюки и советы – Николай Сицко](https://youtu.be/-ngKiMQ5omc)
+ * [SQL DDL: трюки и советы – Николай Сицко](https://youtu.be/-ngKiMQ5omc) и [презентация](https://www.slideshare.net/Sitsko/sql-ddl-tricks-and-tips-jprof27-minsk-24th-september)
 
 ## Дискуссия 
 
