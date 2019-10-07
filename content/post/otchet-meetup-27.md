@@ -18,7 +18,16 @@ tags = [
 ## Видеозаписи:
 
  * [SQL DDL: трюки и советы – Николай Сицко](https://youtu.be/-ngKiMQ5omc)
- * Мы оформляем красивенький отчёт по дискуссии, следите за обновлениями в [Telegram-чате](https://t.me/jprof_by)
+
+## Дискуссия 
+
+Провели активно время и обсудили волнующие вопросы про Рекрутинг, Сообщество и Мотивацию. Собрали всё сказанное, смотрите как вышло  
+
+<div class="post_photos">
+{{% fluid_img class="pure-u-1-1" src="/img/meetup27/j27_motivation.jpg" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/meetup27/j27_recruting.jpeg" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/meetup27/j27_community.jpeg" %}}
+</div>
 
 ## Фотографии:
 
