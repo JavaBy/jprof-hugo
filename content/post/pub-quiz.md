@@ -35,7 +35,7 @@ JProf Pub Quiz это:
 
 
 <div class="post_photos">
-{{% fluid_img class="pure-u-1-1" src="/img/pub_quiz/pub_quiz_anons.png " %}}
+{{% fluid_img class="pure-u-1-1" src="/img/pub_quiz/pub_quiz_anons.png" %}}
 </div>
 
 <!--more-->
