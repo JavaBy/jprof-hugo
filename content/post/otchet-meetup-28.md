@@ -16,8 +16,6 @@ tags = [
 ## Видеозаписи:
 
  * [IoT Analytics: From MongoDB to Redshift – Илья Дробеня](https://youtu.be/sD9bftWjeB0) и [презентация](https://docs.google.com/presentation/d/1B1VzMujw_uMbMQmccVBC06F9DASur_Jr54r9uvUS5WQ/edit#slide=id.p3)
- * [Flaky tests. Solved – Андрей Козлов](https://youtu.be/jKjz0SaeSrM)
- * [Code Coverage Quality Gates – Денис Карпенко](https://youtu.be/3l3iMjudG9U)
 
 ## Партнёры
 
