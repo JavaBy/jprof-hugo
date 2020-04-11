@@ -1,7 +1,7 @@
 +++
-date = "2020-02-18T09:00:00+03:00"
+date = "2020-04-11T20:00:00+03:00"
 draft = false
-title = "Java Professionals Hackathon #1 ∆ 12.04 – 19.04"
+title = "JProf Hackathon #1 ∆ 12.04 – 19.04"
 tags = [
     "Анонсы", "hackathon"
 ]
@@ -12,7 +12,7 @@ description = "Java Professionals Hackathon #1"
 location = "Home"
 begin = "20200412T120000"
 beginTimezone = "Europe/Minsk"
-end = "20200219T120000"
+end = "20200419T120000"
 +++
 
 Друзья! Думаю, многие из вас в эти дни помогают врачам справиться со вспышкой COVID-19, ограничив социальные взаимодейтвия и проводя вечера дома. 
