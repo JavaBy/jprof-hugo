@@ -3,7 +3,7 @@ date = "2020-02-18T09:00:00+03:00"
 draft = false
 title = "Java Professionals Hackathon #1 ∆ 12.04 – 19.04"
 tags = [
-    "Анонсы", "meetup"
+    "Анонсы", "hackathon"
 ]
 
 [event]
