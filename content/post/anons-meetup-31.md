@@ -51,5 +51,5 @@ TBD
 Митап пройдет при поддержке компаний [Helmes](helmes.com) и [Sam Solutions](https://sam-solutions.by/)
 
 {{< fluid_imgs
-  "pure-u-1-2|/img/jprof_partners[helmes,samsolutions].png|helmes,samsolutions"
+  "pure-u-1-2|/img/jprof_partners[sam solutions,helmes].png|helmes,samsolutions"
 >}}
