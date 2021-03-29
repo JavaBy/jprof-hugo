@@ -1,5 +1,4 @@
-# TODO: Status badge
-[![Build Status](https://travis-ci.org/JavaBy/jprof-hugo.svg?branch=master)](https://travis-ci.org/JavaBy/jprof-hugo)
+[![Deploy](https://github.com/JavaBy/jprof-hugo/actions/workflows/deploy.yml/badge.svg?branch=master&event=push)](https://github.com/JavaBy/jprof-hugo/actions/workflows/deploy.yml)
 
 # Java Professionals BY
 
@@ -11,7 +10,7 @@
 
 Посты добавляются в формате `.md` в папку `content/post`, картинки — в `static/img`.
 
-Сборка и деплой происходят [автоматически](.github/workflows/master.yml) при обновлении ветки `master`.
+Сборка и деплой происходят [автоматически](.github/workflows/deploy.yml) при обновлении ветки `master`.
 
 Локальная сборка чуть сложнее:
 
