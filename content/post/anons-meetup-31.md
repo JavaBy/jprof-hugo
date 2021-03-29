@@ -18,7 +18,7 @@ end = "20210415T210000"
 Привет, дорогие! Весна пришла, JPROF оживает и приглашает принять участие в митапе.
 Встретимся уже скоро, 15 апреля в 19:00, на новом(или старом?) месте и классном IMAGURU, в офлайн и онлайн формате. 
 
-И самое главное – [регистрируемся](https://forms.gle/qrPYiiTTAFJeXeBw9) добавляем себе событие в календарь и приходим!
+И самое главное – [регистрируемся](https://forms.gle/qrPYiiTTAFJeXeBw9), добавляем себе событие в календарь и приходим!
 
 {{% fluid_img class="pure-u-1-1" src="/img/meetup31/FB_event_cover.jpg" %}}
 
@@ -50,7 +50,7 @@ end = "20210415T210000"
 
 ## Партнёры
 
-Митап пройдет при поддержке компаний [Helmes](helmes.com) и [Sam Solutions](https://sam-solutions.by/)
+Митап пройдет при поддержке компаний [Helmes](https://www.helmes.com/) и [Sam Solutions](https://sam-solutions.by/)
 
 {{< fluid_imgs
   "pure-u-1-2|/img/jprof_partners[sam solutions,helmes].png|helmes,samsolutions"
