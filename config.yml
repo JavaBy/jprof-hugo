@@ -1,0 +1,46 @@
+baseurl: https://jprof.by/
+languageCode: ru-RU
+title: Java Professionals BY
+theme: blackburn
+author: jprof.by team
+paginate: 10
+indexes:
+  tag: tags
+params:
+  subtitle: Belarus Java User Group
+  brand: jprof.by
+  googleAnalytics: UA-86356104-1
+  dateFormat: 02 Jan 2006
+  disqus: jprof-by
+menu:
+  main:
+    - name: Домой
+      pre: <i class='fa fa-home fa-fw'></i>
+      weight: 1
+      identifier: home
+      url: /
+    - name: О нас
+      pre: <i class='fa fa-user fa-fw'></i>
+      weight: 2
+      identifier: about
+      url: /about/
+    - name: Записи
+      pre: <i class='fa fa-list fa-fw'></i>
+      weight: 3
+      identifier: post
+      url: /post/
+    - name: Темы
+      pre: <i class='fa fa-tags fa-fw'></i>
+      weight: 4
+      identifier: tag
+      url: /tags/
+    - name: Контакты
+      pre: <i class='fa fa-phone-square fa-fw'></i>
+      weight: 5
+      identifier: contact
+      url: /contact/
+social:
+  github: JavaBy
+  vk: javaprofessionalsby
+  facebook: javaprofessionalsby
+  youtube: JavaProfessionalsBY
