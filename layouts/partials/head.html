@@ -34,11 +34,6 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:700|PT+Sans" rel="stylesheet" type="text/css">
 
-  <!-- RSS -->
-  {{ if .RSSLink }}
-  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .RSSLink }}" />
-  {{ end }}
-
   {{ with .Site.Params.highlightjs }}
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/styles/{{ . }}.min.css">
   <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/highlight.min.js"></script>
