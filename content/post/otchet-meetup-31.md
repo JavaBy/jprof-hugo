@@ -12,7 +12,7 @@ tags = [
 [Ищите себя на фото и ставьте лайки!](https://www.facebook.com/media/set/?vanity=javaprofessionalsby&set=a.3214305238673052)
 
 <div style="color: #97312f; font-size: 1.5em">UPD: К сожалению, Белорусское государство закрывает главный стартап-хаб 
-страны – <b>Imaguru</b>. Больше информация и как выразить поддержку – <a href="https://help.imaguru.by/">по ссылке</a>></div>
+страны – <b>Imaguru</b>. Больше информации и как выразить поддержку – <a href="https://help.imaguru.by/" target="_blank">по ссылке</a></div>
 
 Запись и фото митапа ↓↓↓
 <!--more-->

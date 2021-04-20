@@ -1,13 +1,10 @@
 <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    {{ if .RSSLink }}
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="{{ .RSSLink }}"><i class="fa fa-rss fa-fw"></i>RSS</a>
-    </li>
-    {{ end }}
-
     <li class="menu__social">
+      {{ with .Site.Social.instagram }}
+        <a class="pure-menu-link" href="https://www.instagram.com/{{ . }}" target="_blank"><i class="fa fa-instagram fa-fw"></i></a>
+      {{ end }}
       {{ with .Site.Social.twitter }}
         <a class="menu__social_link" href="https://twitter.com/{{ . }}" target="_blank"><i class="fa fa-twitter-square fa-fw"></i></a>
       {{ end }}
