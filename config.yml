@@ -12,6 +12,10 @@ params:
   googleAnalytics: UA-86356104-1
   dateFormat: 02 Jan 2006
   disqus: jprof-by
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
   main:
     - name: Домой
@@ -41,6 +45,6 @@ menu:
       url: /contact/
 social:
   github: JavaBy
-  vk: javaprofessionalsby
+  instagram: jprof.by
   facebook: javaprofessionalsby
   youtube: JavaProfessionalsBY
