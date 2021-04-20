@@ -9,10 +9,13 @@ tags = [
 
 Открыли сезон в такое непростое время! Митап прошёл в онлайн и офлайн формате, были рады увидеть и услышать друг друга.
 
-[Ищите себя на фото и ставьте лайки](https://www.facebook.com/media/set/?vanity=javaprofessionalsby&set=a.3214305238673052)
+[Ищите себя на фото и ставьте лайки!](https://www.facebook.com/media/set/?vanity=javaprofessionalsby&set=a.3214305238673052)
 
+<div style="color: #97312f; font-size: 1.5em">UPD: К сожалению, Белорусское государство закрывает главный стартап-хаб 
+страны – <b>Imaguru</b>. Больше информация и как выразить поддержку – <a href="https://help.imaguru.by/">по ссылке</a>></div>
+
+Запись и фото митапа ↓↓↓
 <!--more-->
-Спасибо, что были с нами!
 
 ## Видеозаписи:
 
@@ -21,12 +24,14 @@ tags = [
  * [Взаимодействие микросервисов: REST и messaging – Павел Вейник](https://www.youtube.com/watch?v=h_5aRblnIdY&t=6980s)
 
 <div class="post_photos">
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_1.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_2.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_3.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_4.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_5.jpg" %}}
-{{% fluid_img class="pure-u-1-2" src="/img/meetup31/meetup31_6.jpg" %}}
+{{< fluid_imgs
+"pure-u-1-2|/img/meetup31/meetup31_1.jpg"
+"pure-u-1-2|/img/meetup31/meetup31_2.jpg"
+"pure-u-1-2|/img/meetup31/meetup31_3.jpg"
+"pure-u-1-2|/img/meetup31/meetup31_4.jpg"
+"pure-u-1-2|/img/meetup31/meetup31_5.jpg"
+"pure-u-1-2|/img/meetup31/meetup31_6.jpg"
+>}}
 </div>
 
 ## Партнёры
