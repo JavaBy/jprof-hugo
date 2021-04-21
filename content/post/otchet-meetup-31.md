@@ -20,8 +20,11 @@ tags = [
 ## Видеозаписи:
 
  * [JHipster в цифровом государстве – Filipp Koppel](https://www.youtube.com/watch?v=h_5aRblnIdY&t=671s)
+    * [Презентация](https://drive.google.com)
  * [Борьба и дружба с техническим долгом – Михаил Штуро](https://www.youtube.com/watch?v=h_5aRblnIdY&t=3780s)
+    * [Презентация](https://drive.google.com/file/d/1mxo5CmmZNyyuxQQRAz_jJvalrn8OJyg3/view)  
  * [Взаимодействие микросервисов: REST и messaging – Павел Вейник](https://www.youtube.com/watch?v=h_5aRblnIdY&t=6980s)
+    * [Презентация](https://drive.google.com/file/d/15gNUaikbm8E5CGyP55SmXIpB0faccwIH/view)
 
 <div class="post_photos">
 {{< fluid_imgs
