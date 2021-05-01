@@ -87,3 +87,17 @@ div.jumbo a {
   text-decoration: underline;
   color: inherit;
 }
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
