@@ -1,5 +1,5 @@
 ---
-date: 2021-04-29T09:00:00+03:00
+date: 2021-05-12T09:00:00+03:00
 draft: false
 title: 'JProf 🌍 Worldwide #1 × 27.05.2021'
 tags:
