@@ -71,4 +71,4 @@ event:
 
 Митап пройдет при поддержке компании [Luxoft](https://luxoft.com).
 
-{{% fluid_img class="pure-u-1-1" src="/img/meetup30/jprof_partners[luxoft].png" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[luxoft].png" %}}
