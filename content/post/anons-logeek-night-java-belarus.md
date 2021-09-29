@@ -70,5 +70,6 @@ event:
 ## Партнёры
 
 Митап пройдет при поддержке компании [Luxoft](https://luxoft.com).
+Информационный партнер мероприятия: [IT-Academy](https://it-academy.by/).
 
-{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[luxoft].png" %}}
+{{% fluid_img class="pure-u-1-1" src="/img/jprof_partners[luxoft,it-academy].png" %}}
